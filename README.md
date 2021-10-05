@@ -29,7 +29,7 @@ Here's a walkthrough of implemented user stories:
 
 Time spent: **5** hours spent in total
 
-<img src='https://i.imgur.com/HNlJtbl.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />## User Stories
+## User Stories
 
 The following **required** functionality is completed:
 
