@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/HNlJtbl.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/MoelMyH.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 **Twitter** is a basic twitter app to read your tweets.
 
