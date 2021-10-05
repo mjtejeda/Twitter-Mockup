@@ -91,8 +91,8 @@
                                                 <constraint firstAttribute="width" constant="30" id="N56-wc-43h"/>
                                                 <constraint firstAttribute="height" constant="30" id="bYE-ld-NxH"/>
                                             </constraints>
-                                            <state key="normal" title="Button"/>
-                                            <buttonConfiguration key="configuration" style="plain" image="favor-icon"/>
+                                            <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                            <state key="normal" title="Button" image="favor-icon"/>
                                             <connections>
                                                 <action selector="favoriteTweet:" destination="Ov7-W7-FC3" eventType="touchUpInside" id="tsZ-3A-HAc"/>
                                             </connections>
@@ -103,8 +103,8 @@
                                                 <constraint firstAttribute="width" constant="30" id="Wm6-kR-xGp"/>
                                                 <constraint firstAttribute="height" constant="30" id="n7h-Yh-cFe"/>
                                             </constraints>
-                                            <state key="normal" title="Button"/>
-                                            <buttonConfiguration key="configuration" style="plain" image="retweet-icon"/>
+                                            <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                            <state key="normal" title="Button" image="retweet-icon"/>
                                             <connections>
                                                 <action selector="retweet:" destination="Ov7-W7-FC3" eventType="touchUpInside" id="m4t-Kq-Amm"/>
                                             </connections>
@@ -172,7 +172,6 @@
                                 <constraints>
                                     <constraint firstAttribute="height" constant="128" id="XXy-Kw-ZO5"/>
                                 </constraints>
-                                <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
