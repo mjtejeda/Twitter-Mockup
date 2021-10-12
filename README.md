@@ -48,6 +48,6 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://i.imgur.com/FxNUlcF.gif" width=250><br>
-<img src="https://i.imgur.com/XitD8gP.gif" width=250><br>
-<img src="https://i.imgur.com/f3M5q92.gif" width=250><br>
+https://i.imgur.com/FxNUlcF.gif
+<img src="https://i.imgur.com/XitD8gP.gif
+<img src="https://i.imgur.com/f3M5q92.gif
