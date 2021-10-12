@@ -48,5 +48,9 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+<img src="https://i.imgur.com/Qulf0AB.gif" width=250><br>
+<img src="https://i.imgur.com/fYjDIvH.gif" width=250><br>
+<img src="https://i.imgur.com/XitD8gP.gif" width=250><br>
+<img src="https://i.imgur.com/IL2I1jO.gif" width=250><br>
+<img src="https://i.imgur.com/6STWd31.gif" width=250><br>
 
-https://i.imgur.com/YFAmsuO.gif
