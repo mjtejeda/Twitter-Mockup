@@ -49,5 +49,7 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 https://i.imgur.com/FxNUlcF.gif
+
 https://i.imgur.com/XitD8gP.gif
+
 https://i.imgur.com/f3M5q92.gif
